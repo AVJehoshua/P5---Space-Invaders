@@ -25,7 +25,7 @@ Ensure you have the following installed on your system:
    ```
 
 2. **Install dependencies**
-     Use pip to install the required libraries. (The main dependencies are pygame, time, os, and random. While time, os, and random)
+     Use pip to install the required libraries. (The main dependencies are pygame, time, os, and random).
 
    ```
    pip install pygame
